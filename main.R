@@ -1,8 +1,8 @@
 ###############################################################################
 #                     Mapping Uninhabited Area of Indonesia
 #         The data used are GHSL (GLOBAL HUMAN SETTLEMENT LAYER) 30 Arsec
-#                     Source code based on Milos Agathon repo 
-# link to repo : https://github.com/milos-agathon/map-uninhabited-areas/blob/main/R/main.r
+#                     Source code based on Milos Agathon's repo 
+# link to repo : https://github.com/milos-agathon/map-uninhabited-areas/tree/main
 ###############################################################################
 
 #Install library used : 
